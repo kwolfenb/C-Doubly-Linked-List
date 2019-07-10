@@ -12,7 +12,7 @@ _This program implements a Doubly Linked List in C#. It includes a Node class an
 
 * _Clone this repository_
 * _Open Doubly_Linked_List.sln in IDE like Visual Studio._
-* _By default the program will run with a basic BST and go through several functions outlined in the Main function._
+* _By default the program will run with a basic Doubly Linked List and go through several functions outlined in the Main function._
 
 
 ## Support and contact details
